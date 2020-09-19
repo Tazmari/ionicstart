@@ -1,0 +1,4 @@
+--go to https://nodejs.org/en/ and download latest version
+--go to https://www.npmjs.com/package/npm and copy npm i npm and add to terminal
+--sudo npm update -g ionic
+--npm i -g @ionic/cli
