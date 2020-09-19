@@ -2,3 +2,5 @@
 --go to https://www.npmjs.com/package/npm and copy npm i npm and add to terminal
 --sudo npm update -g ionic
 --npm i -g @ionic/cli
+--ionic serve
+--ionic capacitor add (to add ios, andriod and web)
